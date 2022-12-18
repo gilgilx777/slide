@@ -5,3 +5,4 @@ slide.init();
 console.log(slide);
 
 slide.chageSlide(3);
+slide.activePrevSlide();
